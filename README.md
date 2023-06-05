@@ -38,8 +38,9 @@ excel 第一列从上到下写入 midjourney 提示词
 
 # 备注
 
-1. windows 用户可直接在 dist 文件夹下载 main.exe 使用。
+1. windows 用户可直接在 dist 文件夹下载 main.exe 使用。也可运行main.py
 2. 此程序是我与 GPT-4 一起完成，过程如下：https://sharegpt.com/c/6VyHGs7
 3. 如果觉得还不错，可以请我喝杯咖啡（vx：laolu2045）。
+4. mac用户请使用main_mac.py 注意：需要在系统设置>>隐私安全>>辅助功能 中把终端开启，否则会报错。 (感谢@動物兇猛 提供mac代码支持)
 
 ![image](https://github.com/lhwd521/auto-midjourney/assets/15196067/d7a826fb-bfaf-4fda-b30e-57da16a62719)
